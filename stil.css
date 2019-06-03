@@ -1,0 +1,91 @@
+
+body{
+font:15px Arial;
+margin:0;
+padding:0;
+background-color:#f4f4f4;
+}
+.container{
+
+margin-left:45px;
+width:80%;
+overflow:hidden;
+}
+header{
+
+background-color:#35424a;
+min-height:70px;	
+font-size:20px;
+}
+header h1{
+float:left;
+color:#ffffff;
+margin-left:10px;
+
+}
+.turuncu{
+color:#e8491d;
+}
+
+ul{
+margin:0;
+padding:0;
+list-style:none;
+float:left;
+margin-left:110px;
+margin-top:30px;
+}
+li{
+float:left;
+color:#ffffff;
+padding:0 20px 0 20px;
+font-size:25px;
+}
+a{
+color:#ffffff;
+text-decoration:none;
+}
+a:hover{
+color:#e8491d;
+}
+
+.solListe{
+
+padding: 0px;
+width: 200px;
+list-style-type:none;
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left:0px;
+}
+ 
+.solListe li a{
+display:block; 
+background-color:#35424a;
+width:255px;
+padding-top: 15px;
+padding-bottom: 15px;
+text-decoration: none;
+font-weight: bold;
+color: #ffffff;
+padding-left: 30px;
+padding-right: 5px;
+
+
+}
+ 
+.solListe li a:hover{
+color: #F60;
+
+}
+
+footer{
+    padding:1px;
+    margin-top:400px;
+    color:#ffffff;
+    background-color:#e8491d;
+    text-align:center;
+	font-size:15px;
+	
+}
